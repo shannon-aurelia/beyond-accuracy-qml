@@ -1,0 +1,6 @@
+.venv/
+MEETING_BRIEF.md
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/

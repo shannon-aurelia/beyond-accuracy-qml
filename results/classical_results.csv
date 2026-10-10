@@ -1,0 +1,4 @@
+Model,Test Accuracy,F1 Score,Training Time (s),Trainable Parameters,Quantum Circuit Evaluations
+Logistic Regression,0.9,0.896551724137931,0.004285140999968462,5.0,0
+RBF SVM,0.9,0.896551724137931,0.0024108970000042973,,0
+Small MLP,0.9,0.896551724137931,0.15493578399997432,49.0,0

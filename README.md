@@ -72,3 +72,8 @@ quantum circuit
 measurement
     ↓
 classical optimization
+```
+
+## Additional Thoughts
+This is still roughly very simple and new, will continue working on this after my midterm exams!
+Also currently writing on Towards Data Science about QML. Published soon!
